@@ -49,5 +49,6 @@ Se possivel forneça  as informações para diferentes plataformas, exemplo Wind
 Se nome - [@SeuTwitwer](https://twittwe.com/seuTwittwee) - seuemail@gmail.com
 
 Distribuido sobre a licença. Veja `LICENÇA` para mais informações.
+
 [https://github.com/seuusuario/seuprojeto](https://github.com/usuário)
 
